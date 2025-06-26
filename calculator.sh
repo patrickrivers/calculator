@@ -2,7 +2,7 @@
 
 # Simple Calculator Script
 
-echo "Enter first number:"
+echo "This is from the main branch"
 read num1
 
 echo "Enter second number:"
