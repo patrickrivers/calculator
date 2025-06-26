@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Simple Calculator Script
-
+echo "just a test"
 echo "This is from the feature branch"
 read num1
 
