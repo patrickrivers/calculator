@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Simple Calculator Script
-
+echo "learned merge conflicts"
 echo "This is from the main branch"
 read num1
 
